@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-spring/web": "^16.8.0",
+    "@react-spring/web": "^9.7.2",
     "@tailwindcss/vite": "^4.1.2",
     "aos": "^2.3.4",
     "react": "^19.0.0",
